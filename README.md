@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning THREE.js, and various coding languages. Español, English, 漢語, 日本語, Русский.
 - 💞️ I’m looking to collaborate on a web-based MMORPG I'm developing.
 - 📫 How to reach me:
-> 📧 theextremenoob77@gmail.com
+> 📧 theextremenoob77@gmail.com   
 > 💿 redcat72 (Discord)
 - 😄 Pronouns: He / Him
 
