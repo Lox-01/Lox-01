@@ -11,9 +11,9 @@
 [![Lox-01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lox-01&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+pie title Lox-01's Top Languages
+    "Javascript" : 386
+    "Python" : 85
+    "HTML" : 15
+    "CSS" : 1
 ```
