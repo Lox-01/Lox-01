@@ -7,8 +7,6 @@
 > 💿 lox0.1 (Discord)
 - 😄 Pronouns: He / Him
 
-<center><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lox-01&count_private=true&show_icons=true&include_all_commits=true" /></center>
-
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { "width": "20px", "pieOuterStrokeWidth": "0px", "pieInnerStrokeWidth": "0px", 'pie1': '#f7df1e', 'pie2': '#4382b3', 'pie3': '#e44d26', 'pie4': '#264de4'}}}%%
 pie
