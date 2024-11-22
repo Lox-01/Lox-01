@@ -10,7 +10,7 @@
 [![Lox-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lox-01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { "min-width": "200px"; "max-width": "200px", "pieOuterStrokeWidth": "0px", "pieInnerStrokeWidth": "0px", 'pie1': '#f7df1e', 'pie2': '#4382b3', 'pie3': '#e44d26', 'pie4': '#264de4'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { "min-width": "100px"; "max-width": "100px", "pieOuterStrokeWidth": "0px", "pieInnerStrokeWidth": "0px", 'pie1': '#f7df1e', 'pie2': '#4382b3', 'pie3': '#e44d26', 'pie4': '#264de4'}}}%%
 pie
     title Lox-01's Top Languages
     "Javascript" : 58.57
