@@ -19,3 +19,15 @@ pie
     "HTML" : 8.97
     "CSS" : 3.11
 ```
+```mermaid
+pie
+    title Pie Chart Example
+    "Slice 1": 30
+    "Slice 2": 20
+    "Slice 3": 25
+    "Slice 4": 25
+    style Slice 1 stroke-width: 0
+    style Slice 2 stroke-width: 0
+    style Slice 3 stroke-width: 0
+    style Slice 4 stroke-width: 0
+```
