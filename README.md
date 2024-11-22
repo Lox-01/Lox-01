@@ -11,6 +11,7 @@
 [![Lox-01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lox-01&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF'}}}%%
 pie
     title Lox-01's Top Languages
     "Javascript" : 58.57
