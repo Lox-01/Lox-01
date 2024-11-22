@@ -8,4 +8,4 @@
 - 😄 Pronouns: He / Him
 
 [![Lox-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lox-01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Lox-01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lox-01)](https://github.com/anuraghazra/github-readme-stats)
+[![Lox-01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lox-01&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
