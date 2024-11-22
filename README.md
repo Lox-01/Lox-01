@@ -12,8 +12,8 @@
 
 ```mermaid
 pie title Lox-01's Top Languages
-    "Javascript" : 386
-    "Python" : 85
-    "HTML" : 15
-    "CSS" : 1
+    "Javascript" : 58.57
+    "Python" : 29.34
+    "HTML" : 8.97
+    "CSS" : 3.11
 ```
