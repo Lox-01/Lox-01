@@ -8,26 +8,13 @@
 - 😄 Pronouns: He / Him
 
 [![Lox-01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lox-01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Lox-01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lox-01&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { "pieOuterStrokeWidth": "0px", "pieInnerStrokeWidth": "0px", 'pie1': '#f7df1e', 'pie2': '#4382b3', 'pie3': '#e44d26', 'pie4': '#264de4'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { "pieOuterStrokeWidth": "0px", "stroke-width": "0px", "pieInnerStrokeWidth": "0px", 'pie1': '#f7df1e', 'pie2': '#4382b3', 'pie3': '#e44d26', 'pie4': '#264de4'}}}%%
 pie
     title Lox-01's Top Languages
     "Javascript" : 58.57
     "Python" : 29.34
     "HTML" : 8.97
     "CSS" : 3.11
-```
-```mermaid
-pie
-    title Pie Chart Example
-    "Slice 1": 30
-    "Slice 2": 20
-    "Slice 3": 25
-    "Slice 4": 25
-    style Slice 1 stroke-width: 0
-    style Slice 2 stroke-width: 0
-    style Slice 3 stroke-width: 0
-    style Slice 4 stroke-width: 0
 ```
