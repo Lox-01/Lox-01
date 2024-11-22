@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a web-based MMORPG I'm developing.
 - 📫 How to reach me:
 > 📧 theextremenoob77@gmail.com   
-> 💿 redcat72 (Discord)
+> 💿 lox0.1 (Discord)
 - 😄 Pronouns: He / Him
 
 <!---
