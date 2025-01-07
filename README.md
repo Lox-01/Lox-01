@@ -5,7 +5,6 @@
 - 📫 How to reach me:
 > 📧 theextremenoob77@gmail.com   
 > 💿 lox0.1 (Discord)
-- 😄 Pronouns: He / Him
 
 - To-do list for me:
 > NextRealm   
