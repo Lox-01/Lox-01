@@ -7,6 +7,13 @@
 > 💿 lox0.1 (Discord)
 - 😄 Pronouns: He / Him
 
+- To-do list for me:
+> NextRealm
+> Poseidon
+> Pterodactyl Management Page
+> TreeSA
+> Internship Stuff
+
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { "width": "20px", "pieOuterStrokeWidth": "0px", "pieInnerStrokeWidth": "0px", 'pie1': '#f7df1e', 'pie2': '#4382b3', 'pie3': '#e44d26', 'pie4': '#264de4'}}}%%
 pie
