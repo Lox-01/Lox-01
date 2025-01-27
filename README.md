@@ -17,8 +17,8 @@
 %%{init: {'theme': 'base', 'themeVariables': { "width": "20px", "pieOuterStrokeWidth": "0px", "pieInnerStrokeWidth": "0px", 'pie1': '#f7df1e', 'pie2': '#4382b3', 'pie3': '#e44d26', 'pie4': '#264de4'}}}%%
 pie
     title Lox-01's Top Languages
-    "Javascript" : 58.57
-    "Python" : 29.34
-    "HTML" : 8.97
-    "CSS" : 3.11
+    "Javascript" : 62.4
+    "Python" : 24.8
+    "HTML" : 7.5
+    "CSS" : 5.3
 ```
