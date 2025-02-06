@@ -9,8 +9,6 @@
 > To-do list for me:
 - NextRealm   
 - Poseidon   
-- Pterodactyl Management Page   
-- TreeSA   
 - Internship Stuff   
 
 ```mermaid
