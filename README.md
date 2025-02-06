@@ -1,25 +1,38 @@
-> 👋 Hi, I’m Lox.   
-> 👀 I’m interested in computer programming, gaming, learning and traveling.   
-> 🌱 I’m currently learning THREE.js, and various coding languages. Español, English, 漢語, 日本語, Русский.   
-> 💞️ I’m looking to collaborate on a web-based MMORPG I'm developing.   
-> > Experience using Python (Flask), JavaScript (THREE.js), HTML, CSS preferred.        
-> 📫 How to reach me:   
-1. 💿 lox0.1 (Discord, preferred)   
-2. 📧 theextremenoob77@gmail.com   
+# 👋 Hi, I’m Lox
 
-> To-do list for me:
-- NextRealm   
-- Poseidon   
-- Internship Stuff   
+## About Me
+I’m interested in computer programming, gaming, learning, and traveling. Currently, I am learning **THREE.js** and various coding languages, including:
+- Español
+- English
+- 漢語
+- 日本語
+- Русский
 
+## Collaboration
+I am looking to collaborate on a web-based MMORPG that I am developing. Experience using the following technologies is preferred:
+- **Python (Flask)**
+- **JavaScript (THREE.js)**
+- **HTML**
+- **CSS**
+
+## Contact Me
+You can reach me through:
+1. 💿 **Discord**: lox0.1 (preferred)
+2. 📧 **Email**: theextremenoob77@gmail.com
+
+## To-Do List
+- NextRealm
+- Poseidon
+- Internship Stuff
+
+## Language Proficiency
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { "width": "20px", "pieOuterStrokeWidth": "0px", "pieInnerStrokeWidth": "0px", 'pie1': '#f7df1e', 'pie2': '#4382b3', 'pie3': '#e44d26', 'pie4': '#264de4'}}}%%
 pie
     title Lox-01's Top Languages
-    "Javascript" : 45
+    "JavaScript" : 45
     "Python" : 33
-    "C": 10
+    "C" : 10
     "HTML" : 7
     "CSS" : 3
     "Assembly" : 2
-```
