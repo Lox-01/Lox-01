@@ -6,6 +6,7 @@ I’m interested in computer programming, gaming, learning, and traveling. Curre
 - 漢語
 - 日本語
 - Русский
+
 If you are fluent in any of those, feel free to reach out to me!
 
 ## Collaboration
