@@ -1,4 +1,7 @@
 ![:Lox](https://count.getloli.com/@:Lox?theme=moebooru-h)
+![:Lox](https://count.getloli.com/@:Lox?theme=booru-lewd)
+![:Lox](https://count.getloli.com/@:Lox?theme=rule34)
+![:Lox](https://count.getloli.com/@:Lox?theme=moebooru)
 
 # 👋 Hi, I’m Lox
 
