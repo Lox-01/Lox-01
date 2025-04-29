@@ -20,7 +20,7 @@ I am looking to collaborate on a web-based MMORPG that I am developing. Experien
 
 ## Contact Me
 You can reach me through:
-1. 💿 **Discord**: lox0.1 (preferred)
+1. 💿 **Discord**: tbd_12128699 (preferred)
 2. 📧 **Email**: theextremenoob77@gmail.com
 
 ## To-Do List
