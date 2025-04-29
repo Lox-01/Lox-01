@@ -1,3 +1,5 @@
+![:name](https://count.getloli.com/@:name?theme=moebooru-h)
+
 # 👋 Hi, I’m Lox
 
 ## About Me
