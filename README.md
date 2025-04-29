@@ -1,4 +1,4 @@
-![:name](https://count.getloli.com/@:name?theme=moebooru-h)
+![:Lox](https://count.getloli.com/@:Lox?theme=moebooru-h)
 
 # 👋 Hi, I’m Lox
 
